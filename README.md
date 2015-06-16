@@ -1,0 +1,1 @@
+This application is written in 2014. In this project is use C#, .Net, OOP, ORM Entity Framework, MS SQL Server
